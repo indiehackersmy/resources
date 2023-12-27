@@ -6,9 +6,7 @@ Welcome to the **Indie Hackers Malaysia Resources** repository! Much like an awe
 2. [How to Use This Repository](#how-to-use-this-repository)
 3. [Resource Categories](#resource-categories)
 4. [Contributing](#contributing)
-5. [Code of Conduct](#code-of-conduct)
-6. [Contact](#contact)
-7. 
+5. [Contact](#contact)
 
 ## How to Use This Repository
 This repository is organized into various categories containing markdown files, each dedicated to specific types of resources. You can navigate through these categories to find the information you need.
@@ -22,8 +20,6 @@ This repository is organized into various categories containing markdown files, 
 
 ## Contributing
 We welcome contributions from the community! If you have a resource to add or an update to an existing one, submit a pull request (PR)
-
-## Code of Conduct
 
 ## Contact
 Have questions or want to get in touch with the Indie Hackers Malaysia team? Reach out to us at [indiehackersmy@gmail.com] or join our communities:
