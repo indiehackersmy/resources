@@ -23,7 +23,7 @@ We welcome contributions from the community! If you have a resource to add or an
 
 ## Contact
 Have questions or want to get in touch with the Indie Hackers Malaysia team? Reach out to us at [indiehackersmy@gmail.com] or join our communities:
-[Malaysia Facebook Community Group](https://www.facebook.com/groups/355372780556608)
+[Malaysia Facebook Community Group](https://www.facebook.com/groups/indiehackersmy)
 
 ---
 
